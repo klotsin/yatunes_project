@@ -1,2 +1,3 @@
 export const musicPlayerInit = () => {
-    console.log('Music init');
+    console.log('Music init')
+};
